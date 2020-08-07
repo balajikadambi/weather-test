@@ -32,7 +32,7 @@ public class WeatherResource {
     	
     	System.out.println("Lat = " + lat +  " Lon = " + lon);
         
-    	String apikey = "";
+    	String apikey = "68c6b9ec6119ec653a31bb81bc7a42ff";
 		String inline = "";
 		
 		try {
